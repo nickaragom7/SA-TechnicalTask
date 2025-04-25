@@ -1,0 +1,7 @@
+● Trigger: A new lead is added to a CRM — you can simulate this using a Google Sheet.
+
+
+● Step 1: Send an email with the lead’s details.
+
+
+● Step 2: Log the lead into another Google Sheet for tracking.

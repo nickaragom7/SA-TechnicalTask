@@ -1,0 +1,14 @@
+Scenario: A new client is onboarding with their AI agent. They want to make sure every new lead captured in their CRM gets tracked and followed up on automatically. You’ll build a basic automation to simulate this type of integration.
+
+ACTIVITY: Set Up a Zapier Workflow
+
+Using Zapier, create a 3-step automation that does the following:
+● Trigger: A new lead is added to a CRM — you can simulate this using a Google Sheet.
+● Step 1: Send an email with the lead’s details.
+● Step 2: Log the lead into another Google Sheet for tracking.
+
+2. Share Your Work
+Please submit:
+● A screenshot or short Loom video walking through your setup. 
+● A short written explanation of how the workflow works. 
+● One suggestion you’d make to improve or expand this in a real client scenario. 

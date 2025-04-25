@@ -1,0 +1,13 @@
+Scenario: Clients often want their AI agent to send conversation or lead data to another platform (like a CRM or analytics dashboard). These platforms often accept data through an API. In this task, you’ll simulate sending data to a public API — and retrieving it — to show your comfort with JSON and webhook-based workflows.
+
+Part 1: Send Data (POST Request)
+1. Review the API Documentation
+Use the Reqres.in API. You’ll be using the POST /users endpoint.
+2. Send a POST Request using Zapier (Webhooks by Zapier)
+Create a request with the appropriate JSON body
+
+Part 2: Retrieve Data (GET Request)
+1. After your POST request in Part 1, the API will respond with a mock id (ID 4).
+Simulate retrieving a lead with a GET request.
+2. Send a GET request to the appropriate endpoint.
+Use ID 4 as your mock user ID.
